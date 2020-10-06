@@ -1,0 +1,29 @@
+DONE
+Monoeye - Appears at point, fires directly at player in intervals
+Skulllaser - Appears at point, fires at fixed angle in intervals
+Jelly - Does nothing
+
+Gazer Boss - 
+    Pattern 1 - Chooses point on screen, fires shotgun burst of shots at player with high loop count. Repeat 3 times
+    Pattern 2 - Go to center of screen, rotate while shooting shots with low loop count, lasts 10 seconds
+    Pattern 3 - Takes aim at player, with visible targetting laser that loops, and fires a single, very fast bullet
+
+Mine - Appears at point, does not fire shots, after being killed, shoots ring of projectiles
+Rapid Skulllaser - Like skulllaser, but fires a rapid barrage for a fixed amount of time instead
+
+Fairy boss - 
+    Pattern 1 - Choose point on screen, emit expanding ring of bullets, repeat 3 times
+    Pattern 2 - Move to point, fire 3 shot spread with center directly aimed at player, repeat 3
+    Pattern 3 - Ice Sign Icicle Fail - Go to top of screen, fire large barrage of looping bullets with static blindzone
+    
+TODO
+
+Triple Monoeye - Like monoeye, but fires triple shots slightly slower
+
+Final boss -
+    Pattern 1 - Fire spread of shots from hands
+    Pattern 2 - Summons waves of rapid skulllasers to force the player to move, including off the screen to loop
+    Pattern 3 - Summons rapid skulllasers to block off outer thirds of the screen, fires large slow bullets down the center
+
+
+

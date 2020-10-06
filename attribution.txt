@@ -1,0 +1,13 @@
+Non-original assets:
+https://opengameart.org/content/world-map-tiles
+https://opengameart.org/content/colored-summoning-circles
+https://freesound.org/people/deleted_user_2906614/sounds/263621/
+https://freesound.org/people/SamsterBirdies/sounds/483883/
+https://freesound.org/people/kafokafo/sounds/128349/
+
+Music:
+http://windsphere.biz/ (Title)
+http://soleilmusique.web.fc2.com/ (Boss themes)
+http://takabosoft.com/music/freemidi (Stage themes)
+
+Fake 3d shader adapted from https://www.shadertoy.com/view/MddSzB
